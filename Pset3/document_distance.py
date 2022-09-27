@@ -1,9 +1,3 @@
-# Problem Set 3
-# Name: Olivia Dias
-# Collaborators: 6.0001 Office Hours
-# Time Spent: 4:00
-
-
 import string
 import math
 
