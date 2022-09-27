@@ -1,8 +1,3 @@
-# Problem Set 2, hangman.py
-# Name: Olivia Dias
-# Collaborators: 6.0001 Office Hours
-# Time spent: 4:00
-
 import random
 import string
 
